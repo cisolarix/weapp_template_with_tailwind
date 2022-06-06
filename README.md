@@ -1,8 +1,8 @@
-# mp-tailwind-plugin-native-demo
+# 支持 Tailwind 的微信小程序模板
 
-## Dev
+## 开发
 
 ```bash
-# Run Gulp workflow first then develop the code inside 'src' folder
+# 运行此命令以开启 `gulp` 命令
 npm run dev
 ```
